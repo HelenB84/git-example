@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello Wereld!");
 
         Person p = new Person("Sjaak");
+        Person x = new Person("Helen")
 
         System.out.println(p.getName());
     }
